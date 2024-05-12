@@ -6,3 +6,5 @@ provide amovie api for reactjs
 1. `npm init`
 2. `npm run server`
 3. `git init`
+
+##
